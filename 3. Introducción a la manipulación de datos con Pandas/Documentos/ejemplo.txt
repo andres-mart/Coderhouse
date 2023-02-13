@@ -1,0 +1,6 @@
+alumno;primer parcial;segundo parcial;observaciones;DNI
+Zutano;7;10;ninguna;23000000
+Mengano;8;9;libre;12389100
+Pepe;7;4;ninguna;99999
+Fulanito, Cosme;4;10;libre;1001
+Maria;10;10;oyente;30406011
