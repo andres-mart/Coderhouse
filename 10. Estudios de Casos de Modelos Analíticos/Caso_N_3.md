@@ -84,7 +84,7 @@ Variable Categórica ordinal
 *Outlet_Type:* de supermercado
 Variable Categórica ordinal
 
-Item_Outlet_Sales
+*Item_Outlet_Sales:*
 Variable cuantitativa continua
 
 
