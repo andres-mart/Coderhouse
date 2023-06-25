@@ -37,55 +37,44 @@ Determinar compras a proveedores que sean acordes a los hábitos de consumo.
 
 
 *Item_Identifier:*
-ID de producto único.
-Variable categórica nominal.
+ID de producto único. Variable categórica nominal.
 
 
 *Item_Weight:*	
-Peso del producto. 
-Variable cuantitativa continua
+Peso del producto. Variable cuantitativa continua.
 
 *Item_Fat_Content:*	
-El producto es bajo en grasa o no?.
-Variable Categórica ordinal
+El producto es bajo en grasa o no?. Variable Categórica ordinal.
 
 
 *Item_Visibility:*
-El% del área de visualización total de todos los productos en una tienda asignada a un producto en particular.
-Variable cuantitativa continua
+El% del área de visualización total de todos los productos en una tienda asignada a un producto en particular. Variable cuantitativa continua.
 
 
 *Item_Type:*	
-La categoría a la que pertenece el producto.
-Variable Categórica nominal
+La categoría a la que pertenece el producto. Variable Categórica nominal.
 
 *Item_MRP:*	
-Precio minorista máximo (precio de lista) del producto.
-Variable cuantitativa continua
+Precio minorista máximo (precio de lista) del producto. Variable cuantitativa continua.
  
 
 *Outlet_Identifier:*	
-ID de tienda única.
-Variable categórica nominal.
+ID de tienda única. Variable categórica nominal.
 
 
-*Outlet_Establishment_Ye:* El año en que se estableció la tienda.
-Variable cuantitativa discreta
+*Outlet_Establishment_Ye:* El año en que se estableció la tienda. Variable cuantitativa discreta.
 
 *Outlet_Size:*	
-El tamaño de la tienda en términos de superficie cubierta 
-Variable Categórica ordinal
+El tamaño de la tienda en términos de superficie cubierta. Variable Categórica ordinal.
 
 
 *Outlet_Location_Type:*	
-El tipo de ciudad en la que se encuentra la tienda.Si la tienda es solo una tienda de comestibles o algún tipo
-Variable Categórica ordinal
+El tipo de ciudad en la que se encuentra la tienda.Si la tienda es solo una tienda de comestibles o algún tipo. Variable Categórica ordinal.
 
-*Outlet_Type:* de supermercado
-Variable Categórica ordinal
+*Outlet_Type:* de supermercado. Variable Categórica ordinal.
 
 *Item_Outlet_Sales:*
-Variable cuantitativa continua
+Variable cuantitativa continua.
 
 
 
